@@ -1,0 +1,97 @@
+Fyne Authenticator Open Source License - Version 1.0 - February 16th, 2024
+Copyright (c) 2024 - Stephen Owens steveo98501@gmail.com
+
+LICENSE GRANT
+
+Permission is hereby granted, free of charge, to any person or organization
+obtaining a copy of the software and accompanying documentation covered by
+this license (the "Software") to view, study, display, compile, execute and 
+evaluate and learn from.  Additional, licence to transmit the Software, is 
+granted to github.com and other third party platforms who provide the software
+as is and free of charge to the public.  
+
+Additional permission is hereby granted to perform live demonstrations of this software 
+on any medium provided that you do not charge for the actual use of the software. The term
+"live demonstration" shall herein be defined as a live or recorded human acting in the capacity
+of a presenter, demonstrating the download, compilation, and use of this software.  You are
+hereby granted permission to charge for, or monetize, any live demonstration of the software provided 
+that you provide full and conspicuous attribution to your audience along with a link to this 
+source code repository as part of that demonstration: 
+    https://github.com/steowens/fyne-authenitator
+
+Individuals who wish to transmit this software internally may do so by sharing a
+link to the public repository to allow other organizaton members to download it 
+directly, or by hosting their own public facing source code repository and making 
+this software downloadable to the public free of charge.  Organizations
+hosting this code as a public facing open source repository are hereby granted
+permission to transmit the software internally or with authorized third parties
+in order to facilitate hosting, backup, recovery and any other operational necessity
+supporting their capcity to distribute the software subject to the terms of this license.
+
+You may integrate this software with other software via the API endpoints that this
+software provides subject to the constraint that you do not charge for the use of any
+software integrated with this software and that you distribute the integrated software under
+an open source license that grants the public free use said integrated software. 
+Alternatively permission is hereby granted provided such integration is strictly part of a 
+live demonstration in keeping with the aforementioned license grants.
+
+RESTRICTIONS
+
+Under no circumstances shall any integration of this software be construed as 
+an expansion of rights or priveleges to any person to use this software beyond 
+those already enumerated in the above license grant.  Any licence grants extended
+to authorized parties by the author under terms and conditions different than
+this license shall be seperate and severable from these terms and conditions.
+
+Third party software integrated into or incorporated in this software shall be subject 
+exclusively to the terms and conditions under which it was distributed but shall in no
+way abridge, modify or expand the rights to use this body of work beyond the extent
+of the terms granted herein.
+
+You may not modify nor prepare derivative works of the
+Software, nor permit third-parties to whom the Software is furnished to
+do so. You may not charge for the use of or access to this software.  You may not
+incorporate this software into any software as a service or other product, 
+without obtaining written authorizaton of the author.
+
+All permissions herein granted are subject to the following:
+
+The copyright notices in the Software and this entire statement, including
+the above license grant section, this restrictions section and the following 
+disclaimer section, must be included in all copies of the Software, in whole 
+or in part.
+
+Your download, use, live demonstration or inspection of this software constitutes an 
+agreement to disclaim and release any rights of patent held by you, or any organization, company
+or government body you currently or later represent, to the author of this software, for any invention
+which later claims any ideas, processes, methods or procedures similar to those disclosed under 
+this open source body of code.
+
+Due to the limited financial, and legal resources available to ordinary private citizens of 
+the United States of America, any failure by the author to take steps to enforce the terms and 
+conditions of this agreement shall in no way nullify, abridge nor remove any obligation that 
+is established under this license.
+
+If any provision of this licence is held to be illegal or invalid for any reason, the illegality 
+or invalidity shall not affect the remaining provisions hereof, but such provision shall be fully 
+severable and this license shall be construed and enforced as if the illegal or invalid provision 
+had never been included herein.  Such ammendment shall be limited to the minimum change necessary
+to render the remainder of the license legal and valid.
+
+DISCLAIMER
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE AND NON-INFRINGEMENT. IN NO EVENT
+SHALL THE COPYRIGHT HOLDERS OR ANYONE DISTRIBUTING THE SOFTWARE BE LIABLE
+FOR ANY DAMAGES OR OTHER LIABILITY, WHETHER IN CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER
+DEALINGS IN THE SOFTWARE.
+
+NOTWITHSTANDING THE FOREGOING ANY DAMAGES CLAIMED BY ANY PARTY FOR ANY REASON
+AGAINST THE AUTHOR OF THIS SOFTWARE FOR ANY REASON RELATED TO THE USE, DISTRIBUTION
+OR DISCLOSURE OF THIS SOFTWARE SHALL BE STRICTLY LIMITED TO THE AMOUNT OF MONEY PAID BY THE 
+AGGRIEVED PARTY TO THE AUTHOR FOR USE OF THE SOFTWARE. ANY CLAIM MADE AGAINST ANY 
+PARTY WHO DISTRIBUTES OR PERFORMS A LIVE DEMONSTRATION OF THIS SOFTWARE SHALL BE LIMITED 
+TO THE AMOUNT OF MONEY PAID TO THE DISTRIBUTOR OR DEMONSTRATOR BY THE AGGRIEVED FOR SAID 
+DISTRIBUTION OR DEMONSTRATION.
